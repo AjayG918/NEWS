@@ -13,6 +13,7 @@
 
     nav {
     background-color: red;
+    vertical-align: middle;
     padding: 15px;}
 
     .logo {
@@ -23,7 +24,8 @@
     margin-right: 40px;}
 
     .menu {
-    display: inline-block;}
+    display: inline-block;
+    vertical-align: middle;}
 
     .menu li {
     display: inline-block;
@@ -73,6 +75,7 @@
 
     p::first-letter{
     font-size:30px;}
+
 
 
 
